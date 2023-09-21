@@ -1,0 +1,20 @@
+ul.Items {
+    list-style: none;
+    padding: 0px;
+}
+
+li {
+    padding: 20px 0;
+    border-bottom: 1px solid #888888;
+    background-color: white;
+}
+
+li:hover {
+    color: black;
+    background-color: lightcoral;
+}
+
+li:last-child {
+    border-bottom: 0px solid #888888;
+}
+
